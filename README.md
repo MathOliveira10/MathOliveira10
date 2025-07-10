@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Me chamo Matheus Oliveira, tenho 24 anos e sou natural de São Paulo. Concluí a faculdade de Engenharia da Computação pela Faculdade Anhanguera, e após 5 anos de curso surgiu o interesse por programação. Desde então, procuro aprimorar cada vez mais a minha experiência dentro da área, com cursos, mentoria e muita prática. Logo abaixo está listado um pouco das linguagens e tecnologia que possuo conhecimento. 
+Me chamo Matheus Oliveira, tenho 24 anos e sou natural de São Paulo. Graduado em Engenharia da Computação pela Faculdade Anhanguera, com 5 anos de jornada acadêmica explorando áreas como algoritmos, sistemas embarcados e IA. Ao longo desse caminho, desenvolvi uma paixão por programação, especialmente voltado para Front End, onde posso unir lógica, design e experiência do usuário. Atualmente, me dedico a aprimorar minhas habilidades em HTML, CSS, JavaScript e FrameWorks modernos, sempre buscando criar interfaces intuitivas e responsivas. Curioso por natureza e em constante aprendizado, estou construindo projetos que refletem minha evolução como desenvolvedor. 
 
 ### 🤖 Linguagens e Tecnologias:
 
